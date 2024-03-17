@@ -1,3 +1,4 @@
 Git repository practice
 we have 16 lectures in this class
 we are on 3rd line in this file
+3rd line is important
